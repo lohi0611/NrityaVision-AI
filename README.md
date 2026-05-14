@@ -1,3 +1,14 @@
+---
+title: NrityaVision AI
+emoji: 🩰
+colorFrom: yellow
+colorTo: red
+sdk: gradio
+sdk_version: 4.29.0
+app_file: app.py
+pinned: false
+---
+
 # 🩰 NrityaVision AI
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-v2.0+-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
